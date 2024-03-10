@@ -1,1 +1,2 @@
-print("I am having fun today")
+print("I am having fun all days")
+
